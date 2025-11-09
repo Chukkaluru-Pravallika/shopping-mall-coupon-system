@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+sklearn==0.0
+pymysql
+mysqlclient
+openpyxl
+xlwt
+django==3.2.12
+
+# python 3.10.0
